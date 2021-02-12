@@ -1,0 +1,7 @@
+G:\Broadwaay\project1\broadwayproject1\bin\Debug\broadwayproject1.exe.config
+G:\Broadwaay\project1\broadwayproject1\bin\Debug\broadwayproject1.exe
+G:\Broadwaay\project1\broadwayproject1\bin\Debug\broadwayproject1.pdb
+G:\Broadwaay\project1\broadwayproject1\obj\Debug\broadwayproject1.csprojAssemblyReference.cache
+G:\Broadwaay\project1\broadwayproject1\obj\Debug\broadwayproject1.csproj.CoreCompileInputs.cache
+G:\Broadwaay\project1\broadwayproject1\obj\Debug\broadwayproject1.exe
+G:\Broadwaay\project1\broadwayproject1\obj\Debug\broadwayproject1.pdb

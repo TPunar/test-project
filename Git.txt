@@ -1,0 +1,48 @@
+
+Git commands
+
+git config --global user.name "Name"
+git config --global user.email "Email"
+
+//Folder for git
+git init- initialize a git rep
+//status check of repo
+git status
+server ko copy local machine ma tanne
+git clone <URL>
+git add. stages all the changes
+git commit -m "message"
+
+
+local machine to server
+1. git init
+2.
+git pull origin main
+git pull origin <branch name>//pulls the changes of the current branch for the remote
+git log chceks history
+git log --oneline
+git checkout "uniqe code"
+
+Branch commands
+git branch gives list of branches
+git branch hari creats branch
+git branch -d hari deletes branch hari
+how to switch to hari branch
+git checkout hari
+git chcekout -b _ram creates and checksout at the same time
+
+push branch to server
+git push origin "branch name"
+git push origin --all pushes all the branches
+git push -d origin _hari deletes hati branch in server
+git .add
+git commit -m "commit for all remining files"
+git commit -m "new files in the folder"
+git remote -v //Displays all the remote addresses for (fetch and push)
+git remote add <name> <remote url>
+git remote remove <name>
+git stash //push all the svhages to a different stash stack
+git stash pop// pops out the changes from the stash stack
+git reset --hard //removes all the changes permanently for the stash
+
+
