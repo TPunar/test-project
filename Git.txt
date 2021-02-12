@@ -46,3 +46,4 @@ git stash pop// pops out the changes from the stash stack
 git reset --hard //removes all the changes permanently for the stash
 
 
+changes 
